@@ -1,6 +1,6 @@
-# Samples dev Apache Atlas
+# Samples Apache Atlas
 
-# Apache Atlas Java Client Automation Example
+## Apache Atlas Java Client Automation Example
 
 This repository contains a complete, production-ready Java automation example using the **Apache Atlas Client V2 API** (compatible with Apache Atlas v2.5.0+). 
 
